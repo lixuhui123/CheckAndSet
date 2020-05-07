@@ -53,7 +53,7 @@
 //	};
 //	int findCircleNum(vector<vector<int>>& M) 
 //	{
-//		//遍历，生成并查集
+//		//遍历，生成并查集，是森林
 //		size_t i, j;
 //		UnionFindSet ufs(M.size());
 //		for (i=0;i<M.size();++i)
